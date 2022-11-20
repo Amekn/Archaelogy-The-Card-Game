@@ -1,0 +1,4 @@
+Version Detail:
+1. Some bug fixed.
+2. Improved load card and arrange card algorithms.
+3. Used enum to record card index position, and a int array to store value of a card.
